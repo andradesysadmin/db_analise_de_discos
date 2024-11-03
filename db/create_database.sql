@@ -6,8 +6,7 @@ CREATE TABLE artistas (
     artista_id SERIAL PRIMARY KEY,
     nome VARCHAR(100) NOT NULL,
     nacionalidade VARCHAR(100),
-    genero VARCHAR(100),
-    data_lancamento DATE
+    genero VARCHAR(100)
 );
 
 CREATE TABLE discos (
