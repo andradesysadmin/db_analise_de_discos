@@ -22,3 +22,12 @@ O projeto inclui um script SQL localizado no diretório `db`, que facilita a cri
 3. **Análise e visualização**: Apresentação dos dados em gráficos e tabelas para os usuários.
 
 Este projeto, portanto, combina práticas de gerenciamento de dados com análise e visualização.
+
+## Feito com
+
+- **Jupyter Notebook** como IDE
+- **Python** como linguagem de programação
+- **Pandas** para estruturação e manipulação dos dados
+- **PostgreSQL (e a biblioteca psycopg2)** como banco de dados
+- **Expressões Regulares (Regex)** para encontrar os padrões dos arquivos de imagens do txt exportado do whatsapp
+- **Matplotlib** para criar e exibir as tabelas
