@@ -1,5 +1,5 @@
-# Projeto de Análise de Dados com Coleção de Discos
-
+# Projeto de análise de dados com coleção de discos
+<img src="https://github.com/andradesysadmin/db_analise_de_discos/blob/main/graphic_output.png">
 Este projeto foi originalmente desenvolvido para a disciplina de Banco de Dados na faculdade, mas, ao longo do processo, optei por adicionar complexidades e funcionalidades, transformando-o em um projeto abrangente de análise de dados.
 
 ## Objetivo
